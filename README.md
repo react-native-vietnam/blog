@@ -1,2 +1,2 @@
-# offline
-Offline group content, topic, discussing
+# Blog
+We write all blog, events etc...
